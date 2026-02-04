@@ -1,6 +1,6 @@
 # Product Roadmap
 
-Aden Agent Framework aims to help developers build outcome oriented, self-adaptive agents. Please find our roadmap here
+Aden Agent Framework aims to help developers build outcome-oriented, self-adaptive agents. Please find our roadmap here
 
 ```mermaid
 flowchart TD
@@ -146,13 +146,13 @@ classDef done fill:#9e9e9e,color:#fff,stroke:#757575
         - [ ] Comprehensive source documentation
         - [ ] Example configurations for all providers
     - [x] **Integration as tools coverage**
-        - [x] Gsuite Tools
+        - [x] Google Workspace Tools
         - [x] Social Media
             - [ ] Twitter(X)
-            - [x] Github
+            - [x] GitHub
             - [ ] Instagram
         - [ ] SAAS
-            - [ ] Hubspot
+            - [ ] HubSpot
             - [ ] Slack
             - [ ] Teams
             - [ ] Zoom
@@ -268,7 +268,7 @@ classDef done fill:#9e9e9e,color:#fff,stroke:#757575
     - [ ] Wake-up Tool (resume agent tasks)
 
 ### Deployment (Self-Hosted)
-- [ ] Workder agent docker container standardization
+- [ ] Worker agent docker container standardization
 - [ ] Headless backend execution
 - [ ] Exposed API for frontend attachment
 - [ ] Local monitoring & observability
@@ -296,4 +296,4 @@ classDef done fill:#9e9e9e,color:#fff,stroke:#757575
 
 ### Cross-Platform
 - [ ] JavaScript / TypeScript Version SDK
-- [ ] Better windows support
+- [ ] Better Windows support
